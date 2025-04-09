@@ -6,6 +6,7 @@ from sklearn.decomposition import IncrementalPCA
 
 from sklearn.linear_model import LogisticRegression
 
+from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 
 if __name__ == '__main__':
