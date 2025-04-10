@@ -59,3 +59,5 @@ if __name__ == '__main__':
     print("="*32)
     print("Coef enet")
     print(modelenet.coef_)
+    print("="*32)
+    
